@@ -1,4 +1,4 @@
-class Floyd{
+class FloydsTriangle{
     public static void main(String args[]){
         int i,j,k=1,num=6;
         for(i=1;i<=num;i++){
@@ -10,3 +10,4 @@ class Floyd{
         }
     }
 }
+
